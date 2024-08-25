@@ -1,0 +1,1 @@
+# seryu-cargo-technical-test
