@@ -8,8 +8,7 @@
 
 **Setup Database Posgresql**
 - "In the assignment, I received the migration and seeders in the form of a zip file."
-- You can download the ZIP file migration (.sql) and the seeders (.csv) from https://drive.google.com/file/d/1w1b3ATT_vkvyB0zbW86Q6VpWuGzZ8eXY/view?usp=drive_link
-
+- You can download the ZIP file migration (.sql) and the seeders (.csv) from https://drive.google.com/file/d/1w1b3ATT_vkvyB0zbW86Q6VpWuGzZ8eXY/view
 **Run Project**
 1. **Clone the project repository**
 2. **Copy `.env.example` to `.env` and configure the port and database settings such as user, password, etc.**
